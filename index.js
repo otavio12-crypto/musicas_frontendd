@@ -1,4 +1,4 @@
-const urlBackend = "https://musicas-wheat.vercel.apps"
+const urlBackend = "https://musicasbackend-theta.vercel.app"
 
 const listaMusicas = document.getElementById("listaMusicas")
 
